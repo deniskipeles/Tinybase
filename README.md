@@ -1,4 +1,4 @@
-# **📘 FINAL PROMPT — Build *Tinybase*: A PocketBase Alternative Using Rust + libSQL + React Admin UI**
+# **Build *Tinybase*: A PocketBase Alternative Using Rust + libSQL + React Admin UI**
 
 **Do not ask questions.
 Do not wait for clarification.
