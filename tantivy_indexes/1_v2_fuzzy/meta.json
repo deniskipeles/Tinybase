@@ -1,0 +1,114 @@
+{
+  "index_settings": {
+    "docstore_compression": "lz4",
+    "docstore_blocksize": 16384
+  },
+  "segments": [
+    {
+      "segment_id": "55e22c7e-7e05-4b94-a8e7-5109ae71ee7f",
+      "max_doc": 639,
+      "deletes": null
+    },
+    {
+      "segment_id": "2f417ea4-3087-482c-b9d3-6bc261e7ff48",
+      "max_doc": 1,
+      "deletes": null
+    },
+    {
+      "segment_id": "e29f2aaa-409f-4689-a8da-edd94ea25fab",
+      "max_doc": 1,
+      "deletes": null
+    }
+  ],
+  "schema": [
+    {
+      "name": "record_id",
+      "type": "i64",
+      "options": {
+        "indexed": true,
+        "fieldnorms": true,
+        "fast": true,
+        "stored": true
+      }
+    },
+    {
+      "name": "film",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "en_robust"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "foreign_gross",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "en_robust"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "story",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "en_robust"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "lead_studio",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "en_robust"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "profitability",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "en_robust"
+        },
+        "stored": true,
+        "fast": false
+      }
+    },
+    {
+      "name": "genre",
+      "type": "text",
+      "options": {
+        "indexing": {
+          "record": "position",
+          "fieldnorms": true,
+          "tokenizer": "en_robust"
+        },
+        "stored": true,
+        "fast": false
+      }
+    }
+  ],
+  "opstamp": 644
+}

@@ -1,0 +1,26 @@
+{"timestamp":"2025-12-19T12:50:29.292326Z","level":"INFO","fields":{"message":"System starting up..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.293678Z","level":"INFO","fields":{"message":"Initializing Apex Vector Engine..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.397759Z","level":"INFO","fields":{"message":"✅ Apex Vector Engine (Candle + HNSW) ready."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.580293Z","level":"INFO","fields":{"message":"Reloading HNSW index from vectors database..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.581283Z","level":"INFO","fields":{"message":"HNSW index reload complete. 0 vectors loaded."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.876654Z","level":"INFO","fields":{"message":"Seeded admin user: admin@tinybase.io"},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.877943Z","level":"INFO","fields":{"message":"Seeding AI Action: Generate Image"},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.890157Z","level":"INFO","fields":{"message":"Seeding AI Action: Content Editor"},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.902116Z","level":"INFO","fields":{"message":"Seeding AI Action: Edit Image"},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.912486Z","level":"INFO","fields":{"message":"Initializing Dynamic Storage Backend..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:50:29.939531Z","level":"INFO","fields":{"message":"Tinybase listening on 0.0.0.0:8080"},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:51:03.918177Z","level":"INFO","fields":{"message":"System starting up..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:51:03.919715Z","level":"INFO","fields":{"message":"Initializing Apex Vector Engine..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:51:04.069147Z","level":"INFO","fields":{"message":"✅ Apex Vector Engine (Candle + HNSW) ready."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:51:04.090574Z","level":"INFO","fields":{"message":"Reloading HNSW index from vectors database..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:51:04.092059Z","level":"INFO","fields":{"message":"HNSW index reload complete. 0 vectors loaded."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:51:04.094424Z","level":"INFO","fields":{"message":"Initializing Dynamic Storage Backend..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:51:04.123089Z","level":"INFO","fields":{"message":"Tinybase listening on 0.0.0.0:5000"},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T12:51:24.193036Z","level":"WARN","fields":{"message":"Tenant '5000-01jp06r43r3zeenk9nb1sbyeyg' not found. Defaulting to Root."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T13:05:25.371760Z","level":"INFO","fields":{"message":"System starting up..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T13:05:25.372853Z","level":"INFO","fields":{"message":"Initializing Apex Vector Engine..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T13:05:25.465701Z","level":"INFO","fields":{"message":"✅ Apex Vector Engine (Candle + HNSW) ready."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T13:05:25.478411Z","level":"INFO","fields":{"message":"Reloading HNSW index from vectors database..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T13:05:25.479039Z","level":"INFO","fields":{"message":"HNSW index reload complete. 0 vectors loaded."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T13:05:25.480368Z","level":"INFO","fields":{"message":"Initializing Dynamic Storage Backend..."},"target":"tinybase_api"}
+{"timestamp":"2025-12-19T13:05:25.502802Z","level":"INFO","fields":{"message":"Tinybase listening on 0.0.0.0:5000"},"target":"tinybase_api"}
